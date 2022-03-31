@@ -1,0 +1,22 @@
+.button1 {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    margin: 0 5px;
+
+}
+
+.button2 {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    margin: 0 5px;
+}
+
+.table {
+    background-color: #eee;
+}
